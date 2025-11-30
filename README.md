@@ -1,0 +1,1 @@
+Pada pertemuan 5 ini, tugas utamanya adalah memahami dasar dari Spring Framework serta bagaimana mengintegrasikan Spring Boot dengan Hibernate/JPA untuk membuat aplikasi sederhana. Di dalam aktivitas ini, kita membuat project Spring yang mampu melakukan operasi CRUD pada data mahasiswa menggunakan konsep ORM dari Hibernate.
